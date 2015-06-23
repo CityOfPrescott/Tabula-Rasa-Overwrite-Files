@@ -1,0 +1,9 @@
+Download _s theme
+Upload to theme directory
+Add gulpfile.js and package.json to theme
+Open command prompt
+Navigate to theme folder
+npm install gulp --save-dev
+run npm code found at top of gulpfile.js
+run gulp tabula rasa
+
