@@ -5,5 +5,5 @@ Open command prompt
 Navigate to theme folder
 npm install gulp --save-dev
 run npm code found at top of gulpfile.js
-run gulp tabula rasa
+run gulp tabula-rasa
 
