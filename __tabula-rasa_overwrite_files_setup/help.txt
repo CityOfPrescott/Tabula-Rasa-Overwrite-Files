@@ -3,7 +3,8 @@ Upload to theme directory
 Add gulpfile.js and package.json to theme
 Open command prompt
 Navigate to theme folder
-npm install gulp --save-dev
-run npm code found at top of gulpfile.js
+run npm install gulp --save-dev
+run npm install
 run gulp tabula-rasa
-
+Update gulpfile.js - var projectURL to new site url
+run gulp
